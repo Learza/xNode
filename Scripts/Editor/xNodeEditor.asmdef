@@ -1,0 +1,17 @@
+{
+    "name": "xNodeEditor",
+    "references": [
+        "GUID:f5d9f840a3455134999aee8aa62d3576"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
